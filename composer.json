@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "fzaninotto/Faker": "~1.4"
+    }
+}
